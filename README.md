@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lizbeth</h1>
-<h3 align="center">I am a motivate student at Adamson University. With a deep passion for tech, I hope my time pursuing higher education yields successful and worthwhile outputs.</h3>
+<h3 align="center">I am a motivated student at Adamson University. With a deep passion for tech, I hope my time pursuing higher education yields successful and worthwhile outputs.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
